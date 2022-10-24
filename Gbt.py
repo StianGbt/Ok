@@ -170,7 +170,7 @@ def login_lagi334():
 		os.system("rm -f .token.txt")
 		os.system("rm -f .cok.txt")
 		print(f'  %s[%sx%s]%s LOGIN GAGAL.....CEK TUMBAL LUU NGAB !!%s'%(x,k,x,m,x))
-		python Gbt.py()
+		()
 #------------------[ BAGIAN-MENU ]----------------#
 def menu(my_name,my_id):
 	try:
