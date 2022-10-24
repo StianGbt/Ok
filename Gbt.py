@@ -200,7 +200,7 @@ def menu(my_name,my_id):
 		dump_follower()
 	elif _____Septian__Gabut_____ in ['3','03']:
 		error()
-	elif _____Septian__Gabut_____ in ['4',04']:
+	elif _____Septian__Gabut_____ in ['4','04']:
 		crack_file()
 	elif _____Septian__Gabut_____ in ['5','05']:
 		result()
